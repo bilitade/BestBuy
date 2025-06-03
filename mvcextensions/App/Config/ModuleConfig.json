@@ -1,0 +1,50 @@
+{
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationExtensions": [],
+            "PresentationControllerClass": "App/PresentationControllers/PresentationController"
+        }
+    },
+    "Forms": {
+        "mobile": {
+            "frmHome": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmHomeController",
+                "FormName": "App/frmHome"
+            },
+            "frmProductDetail": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmProductDetailController",
+                "FormName": "App/frmProductDetail"
+            },
+            "frmProductList": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmProductListController",
+                "FormName": "App/frmProductList"
+            },
+            "frmProductImages": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmProductImagesController",
+                "FormName": "App/frmProductImages"
+            },
+            "frmShoppingCart": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmShoppingCartController",
+                "FormName": "App/frmShoppingCart"
+            },
+            "frmStoreLocator": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "App/frmStoreLocatorController",
+                "FormName": "App/frmStoreLocator"
+            }
+        }
+    },
+    "ModuleType": "UIModule",
+    "ModuleName": "App"
+}
