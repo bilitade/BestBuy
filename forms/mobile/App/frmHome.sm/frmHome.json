@@ -15,6 +15,12 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        0,
+        0
+    ],
     "_skin_": "sfccc3fecbcd45d3ace4a41280550dda",
     "_title_": null,
     "addWidgetsdone": false,
@@ -32,7 +38,11 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxHeader",
+        "flxMain",
+        "flxFooter"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -48,6 +58,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmHome",
+    "ide_preShow": "AS_Form_bb7470348f0c4078b4b2b9be80c3f1bc",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

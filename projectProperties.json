@@ -255,7 +255,8 @@
     "camerasettings": "",
     "category": "app",
     "chat": "false",
-    "cloud_env_GUID": null,
+    "cloud_account_guid": "095e47fa-520b-4ad4-8cc2-f14d9e0b33f9",
+    "cloud_env_GUID": "cb06d0d1-5229-456c-a10f-14168a11c52c",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -366,6 +367,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "095e47fa-520b-4ad4-8cc2-f14d9e0b33f9": {
+            "appName": "Bilisuma-BestBuy",
+            "baseId": "24ef2cd3-87b7-4c6d-ad73-b0f69d69b9b3",
+            "id": "24ef2cd3-87b7-4c6d-ad73-b0f69d69b9b3",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.7.55",
     "lastmodifiedtime": "1748936307538",
     "location": "false",
